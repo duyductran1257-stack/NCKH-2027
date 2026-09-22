@@ -5,7 +5,7 @@ import re
 import pandas as pd
 from datetime import datetime
 
-st.set_page_config(page_title="Khảo Sát Hành Trình Du Lịch AI", page_icon="✈️", layout="wide", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="Khảo sát niềm tin vào AI", page_icon="✈️", layout="wide", initial_sidebar_state="collapsed")
 
 CONFIG_FILE = "tasks_config.json"
 SETTINGS_FILE = "system_settings.json"
